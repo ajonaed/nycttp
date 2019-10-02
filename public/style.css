@@ -1,0 +1,23 @@
+#signinform {
+	margin-top : 70px;
+	width : 30%;
+	padding-top : 15px;
+	padding-bottom : 15px;
+}
+h1 {
+	margin-bottom : 30px;
+}
+#signup {
+	float : right;
+}
+#int {
+	margin-top : 20px;
+}
+#bt {
+	float : right;
+}
+.ipt {
+	width: 25em;
+    padding: 2px;
+    margin: 10px;
+}
