@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const fs = require('fs');
 const lineReader = require('line-reader');
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://stock:stock.001@ajstock-qbqg5.mongodb.net/admin?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://<userName>:<userPassword>@<mongodb link', {
 	useNewUrlParser : true,
 	useCreateIndex  : true
 }).then (() => {
