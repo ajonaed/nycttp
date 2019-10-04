@@ -1,0 +1,31 @@
+#signinform {
+	margin-top : 70px;
+	width : 40%;
+	height: 50%;
+	padding-top : 15px;
+	padding-bottom : 15px;
+}
+h1 {
+	margin-bottom : 30px;
+}
+#signup {
+	float : right;
+}
+#int {
+	margin-top: 40px;
+}
+#bt {
+	float : right;
+}
+.ipt {
+	width: 25em;
+    padding: 2px;
+    margin: 10px;
+}
+
+#int1 {
+	margin-top: 40px;
+}
+.jjj {
+	float : right;
+}
